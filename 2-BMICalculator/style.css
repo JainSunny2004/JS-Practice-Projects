@@ -1,0 +1,30 @@
+html {
+  margin: 0;
+}
+
+form {
+  align-items: center;
+  text-align: center;
+}
+.canvas {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: lightskyblue;
+}
+
+#results {
+  margin-top: 20px;
+  background-color: lightgray;
+  color: black;
+  padding: 10px;
+  border-radius: 12px;
+}
+#results p {
+    font-weight: 600;
+}
