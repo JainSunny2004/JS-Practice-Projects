@@ -8,8 +8,8 @@ A collection of beginner-friendly projects built using HTML, CSS, and Vanilla Ja
 
 | #  | Project Name                | Description                               |
 |----|-----------------------------|-------------------------------------------|
-| 1  | [Color Changer](./colorChanger)     | Click to change the background color randomly |
-| 2  | [BMI Calculator](./BMICalculator)   | Calculates Body Mass Index from height and weight |
+| 1  | [Color Changer](./1-colorChanger)     | Click to change the background color randomly |
+| 2  | [BMI Calculator](./2-BMICalculator)   | Calculates Body Mass Index from height and weight |
 
 ---
 
