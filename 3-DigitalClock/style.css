@@ -1,0 +1,30 @@
+html{
+    margin:0;
+    height:100vh;
+    overflow-y: hidden;
+    padding:0;
+}
+
+.center{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+    margin:15% 35%;
+    width:30%;
+    height: 30%;
+    padding:20px;
+    overflow-x: hidden;
+    border-radius: 9px;
+    background-color: orange;    
+    align-items: center;
+}
+
+#clock{
+    font-weight: 600;
+    text-wrap: nowrap;
+    font-size: 3rem;
+}
+
+h1{
+    text-wrap: nowrap;
+}
